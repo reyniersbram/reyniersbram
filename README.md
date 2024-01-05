@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reyniersbram
 - 👀 I’m interested in tech, physics, IoT, programming..., basically everything.
-- 🏫 I'm studying Science in Computer Science at Ghent University
+- 🏫 I'm studying Computer Science at Ghent University
 
 <!---
 reyniersbram/reyniersbram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
